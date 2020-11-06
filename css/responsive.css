@@ -1,0 +1,578 @@
+/* COL devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    /* logo start */
+    .logo_a {
+        padding: 15px 15px;
+    }
+    /* logo end */
+   
+    /* menu start */
+    .summer-toggler{
+        padding: 0;
+    }
+    .custom-a{
+        padding-top: 0;
+        font-size: 20px!important;
+    }
+    .summer-menu {
+        padding-top: 10px;
+    }
+    /* menu end */
+    /* guest section start */
+    .guest_h2 {
+        font-size: 25px;
+    }
+    .guest_p {
+        font-size: 16px;
+        width: 100%;
+        margin-left: 0;
+        line-height: 30px;
+    }
+    .summer_guest , .owner , .projects .tips, .footer{
+        padding: 50px 0 60px 0;
+    }
+    /* guest section end */
+
+    /* CATAGORY START */
+    .catagory{
+        padding: 50px 0 60px;
+    }
+    .catagory_item_1 , .catagory_item_2{
+        margin-bottom: 50px;
+    }
+    .catagory_h3 {
+        font-size: 25px;
+    }
+    .catagory_p {
+        font-size: 18px;
+    }
+    /* CATAGORY END */
+    
+    /* COMPANY START */
+    .company{
+        padding: 50px 0 60px 0;
+    }
+    /* COMPANY START */
+    .company_border {
+        height: 70px!important;
+        width: 70px!important;
+    }
+    .company_item_1 {
+        padding: 60px 40px 50px 40px;
+        margin-top: 30px;
+    }
+    .company_card_p {
+        font-size: 17px;
+        line-height: 29px;
+    }
+    .company_h3 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+    .company_p {
+        margin-bottom: 50px!important;
+    }
+    .company_about {
+        margin-top: 3px;
+    }
+    .company_manager {
+        font-size: 18px;
+    }
+    .company_post {
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+    .company_border {
+        height: 50px!important;
+        width: 50px!important;
+    }
+    /* COMPANY END */
+
+    /* BLANK START */
+    
+    .summer_blank, .summer_blank2{
+        height: 260px;
+    }
+    /* BLANK END */
+
+    /* WORK START */
+    .work{
+        padding: 50px 0 60px 0;
+    }
+    .work_border {
+        margin-left: 65px!important;
+    }
+    /* WORK END */
+
+    /* OWNER START */
+    .owner_h2 {
+        margin-top: 30px!important;
+    }
+    .owner_p {
+        margin-top: -15px;
+    }
+    /* OWNER END */
+
+    /* NUMBER START */
+    .number{
+        padding: 50px 0 60px 0;
+    }
+    .number_content {
+        padding-left: 0;
+    }
+    /* NUMBER END */
+    /* PROJECT START */
+    .pro_p1 {
+        margin-left: 0px;
+    }
+    .projects_232 {
+        margin-top: 0;
+    }
+    .projects_23 {
+        margin-top: 0;
+    }
+
+    /* PROJECT END */
+
+    /* TIPS START */
+    .tips1 , .tips2{
+        margin-bottom: 30px;
+    }
+    /* TIPS END */
+
+}
+
+/* SM (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .summer-web-h1 {
+        font-size: 36.19px;
+    }
+    .summer-web-h2 {
+        font-size: 42.83px;
+    }
+    .summer-website-img {
+        position: absolute;
+        opacity: 0.5;
+        max-width: 91%;
+    }
+    .summer-planet-img {
+        position: absolute;
+        top: -548px;
+        left: 60px;
+        animation: planet 30s linear infinite;
+        left: 70px;
+        max-width: 38%;
+    }
+    .summer-webite-headings {
+        position: absolute;
+        top: 80px;
+        left: 14px;
+    }
+    .summer-website {
+        position: relative;
+        z-index: 5;
+        margin-left: 58px;
+    }
+    .main-menu-modify {
+        padding: 0px 5px!important;
+    }
+
+    .summer-toggler-icon {  
+        height: 25px;
+    }
+    /* logo start */
+    .logo_a {
+        padding: 15px 20px;
+    }
+    /* logo end */
+
+    /* menu start */
+    .summer-toggler{
+        padding: 0;
+    }
+    .custom-a{
+        padding-top: 0;
+        font-size: 22px!important;
+    }
+    .summer-menu {
+        padding-top: 10px;
+        font-size: 25px;
+    }
+    /* menu end */
+
+    /* guest section start */
+    .guest_h2 {
+        font-size: 32px;
+    }
+    .guest_p {
+        font-size: 16px;
+        width: 100%;
+        margin-left: 0;
+    }
+    .summer_guest , .owner , .projects , .tips , .footer{
+        padding: 70px 0 80px 0;
+    }
+    /* guest section end */
+
+    /* CATAGORY START */
+    .catagory{
+        padding: 70px 0 80px;
+    }
+    .catagory_item_1 , .catagory_item_2{
+        margin-bottom: 70px;
+    }
+    .catagory_h3 {
+        font-size: 32px;
+    }
+    .catagory_p {
+        font-size: 20px;
+    }
+    /* CATAGORY END */
+
+    /* COMPANY START */
+    .company_border {
+        height: 70px!important;
+        width: 70px!important;
+    }
+    .company_item_1 {
+        padding: 60px 40px 50px 40px;
+        margin-top: 30px;
+    }
+    .company_card_p {
+        font-size: 25px;
+        line-height: 37px;
+    }
+    .company_h3 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .company_p {
+        margin-bottom: 60px!important;
+    }
+    .company_about {
+        margin-top: 3px;
+    }
+    .company_manager {
+        font-size: 25px;
+    }
+    .company_post {
+        font-size: 18px;
+        letter-spacing: 2px;
+    }
+    .company_border {
+        height: 50px;
+        width: 50px;
+    }
+    /* COMPANY END */
+
+    /* WORK START */
+    .work{
+        padding: 70px 0 80px 0;
+    }
+    .work_border {
+        margin-left: 180px!important;
+    }
+    /* WORK END */
+
+    /* NUMBER START */
+    .number{
+        padding: 70px 0 80px 0;
+    }
+    .number_content {
+        padding-left: 0;
+    }
+    /* NUMBER END */
+
+    /* PROJECT START */
+    .pro_p1 {
+        margin-left: 0px;
+    }
+    .projects_232 {
+        margin-top: 0;
+    }
+    .projects_23 {
+        margin-top: 0;
+    }
+
+    /* PROJECT END */
+
+
+    /* TIPS START */
+    .tips1 , .tips2{
+        margin-bottom: 30px;
+    }
+    /* TIPS END */
+
+}
+
+
+
+
+/* MD (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .summer-web-h1 {
+        font-size: 36.19px;
+    }
+    .summer-web-h2 {
+        font-size: 42.83px;
+    }
+    .summer-website-img {
+        position: absolute;
+        opacity: 0.5;
+        max-width: 91%;
+    }
+    .summer-planet-img {
+        position: absolute;
+        top: -548px;
+        left: 60px;
+        animation: planet 30s linear infinite;
+        left: 70px;
+        max-width: 38%;
+    }
+    .summer-webite-headings {
+        position: absolute;
+        top: 80px;
+        left: 14px;
+    }
+    .summer-website {
+        position: relative;
+        z-index: 5;
+        margin-left: 58px;
+    }
+    .main-menu-modify {
+        padding: 0px 5px!important;
+    }
+
+    .summer-toggler-icon {  
+        height: 25px;
+    }
+
+
+    /* logo start */
+    .logo_a {
+        padding: 15px 20px;
+    }
+    /* logo end */
+
+    /* menu start */
+    .summer-toggler{
+        padding: 0;
+    }
+    .custom-a{
+        padding-top: 0;
+        font-size: 25px!important;
+    }
+    .summer-menu {
+        padding-top: 10px;
+    }
+    /* menu end */
+
+    /* guest start */
+    .guest_p {
+        width: 100%;
+        margin-left: 0;
+    }
+    /* guest end */
+    /* CATAGORY START */
+    .catagory_p {
+        letter-spacing: 1px;
+        line-height: 25px;
+    }
+    /* CATAGORY END */   
+    
+    /* COMPANY START */
+    .company_border {
+        margin: 0 auto;
+    }
+    .company_item_1 {
+        padding: 60px 40px 50px 40px;
+    }
+    .company_card_p {
+        font-size: 14.7px;
+        letter-spacing: 2px;
+        line-height: 25px;
+    }
+    .company_h3 {
+        margin-bottom: 30px;
+    }
+    .company_about {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .company_manager {
+        font-size: 16px;
+    }
+    .company_post {
+        font-size: 12px;
+        letter-spacing: 2px;
+    }
+    .company_border {
+        height: 50px;
+        width: 50px;
+    }
+    /* COMPANY END */
+
+    /* WORK START */
+    .work_border {
+        margin-left: 270px!important;
+    }
+    /* WORK END */
+
+    /* NUMBER START */
+    .number_content {
+        padding-left: 25px;
+    }
+    /* NUMBER END */
+
+    /* PROJECT START */
+    .pro_p1 {
+        margin-left: 0px;
+    }
+    .projects_232 {
+        margin-top: 0;
+    }
+    .projects_23 {
+        margin-top: 0;
+    }
+
+    /* PROJECT END */
+
+}
+
+
+
+/* LG (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* menu start */
+    .summer-web-h1 {
+        font-size: 45.19px;
+    }
+    .summer-web-h2 {
+        font-size: 55.83px;
+    }
+    .summer-website-img {
+        position: absolute;
+        opacity: 0.5;
+        max-width: 91%;
+    }
+    .summer-planet-img {
+        position: absolute;
+        top: -510px;
+        left: 60px;
+        animation: planet 30s linear infinite;
+        left: 70px;
+        max-width: 42%;
+    }
+    .summer-webite-headings {
+        position: absolute;
+        top: 125px;
+        left: 35px;
+    }
+    .summer-website {
+        position: relative;
+        z-index: 5;
+        margin-left: 58px;
+    }
+    .main-menu-modify {
+        padding: 0px 5px!important;
+    }
+
+    .summer-toggler-icon {  
+        height: 25px;
+    }
+
+    /* menu end */
+
+    /* guest start */
+    
+    .guest_p{
+        margin-left: 20px;
+    }
+    /* guest end */
+
+    /* CATAGORY START */
+    .catagory_p {
+        letter-spacing: 2px;
+    }
+    /* CATAGORY END */
+
+
+    /* COMPANY START */
+    .company_item_1 {
+        padding: 60px 40px 50px 40px;
+    }
+    .company_about {
+        margin-top: 3px;
+    }
+    .company_manager {
+        font-size: 16px;
+    }
+    .company_post {
+        font-size: 16px;
+    }
+    .company_border {
+        height: 50px;
+        width: 50px;
+    }
+    /* COMPANY END */
+
+    /* WORK START */
+    .work_border {
+        margin-left: 390px!important;
+    }
+    /* WORK END */
+
+}
+
+/* XL (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    /* banner start */
+    .summer-website-img {
+        max-width: 80%;
+        margin-left: 50px;
+    }
+
+    .summer-webite-headings {
+        top: 150px;
+        left: 95px;
+    }
+
+    .summer-planet-img {
+        top: -450px;
+        left: 45px;
+        max-width: 45%;
+    }
+
+    .summer-web-h1 {
+        font-size: 50px;
+    }
+    .summer-web-h2 {
+        font-size: 65px;
+    }
+
+    /* top right planet */
+    .summer-planet-topright {
+        top: -1000px;
+        left: 1130px;
+    }
+
+    .summer-template-h2 {
+        font-size: 55px;
+        font-weight: 500;
+        text-align: end;
+    }
+    .summer-border {
+        border: 4px solid white;
+        width: 28%;
+        margin-left: 373px;
+    }
+
+    .summer-template {
+        margin-right: 20px;
+    }
+    .summer-template-button{
+        width: 230px;
+    }
+    /* banner end */
+}
